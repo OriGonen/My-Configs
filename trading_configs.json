@@ -88,5 +88,5 @@
         "initial_crypto_balance": 6.0,
         "base_asset": "ZUSD",
         "crypto_asset": "XDG"
-    },
+    }
 ]
