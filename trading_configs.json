@@ -3,8 +3,8 @@
         "pair": "SHIBUSD",
         "buy_threshold": 0.00001865,
         "sell_threshold": 0.0000195,
-        "initial_balance": 4.0,
-        "initial_crypto_balance": 100000.0,
+        "initial_balance": 5.0,
+        "initial_crypto_balance": 200000.0,
         "base_asset": "ZUSD",
         "crypto_asset": "SHIB"
     },
