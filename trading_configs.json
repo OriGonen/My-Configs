@@ -40,7 +40,7 @@
         "buy_threshold": 138.8,
         "sell_threshold": 148,
         "initial_balance": 0.0,
-        "initial_crypto_balance": 0.09,
+        "initial_crypto_balance": 0.0,
         "base_asset": "ZUSD",
         "crypto_asset": "XMR"
     },
@@ -57,7 +57,7 @@
         "pair": "UNIUSD",
         "buy_threshold": 7.95,
         "sell_threshold": 8.5,
-        "initial_balance": 0.0,
+        "initial_balance": 7.0,
         "initial_crypto_balance": 0.0,
         "base_asset": "ZUSD",
         "crypto_asset": "UNI"
