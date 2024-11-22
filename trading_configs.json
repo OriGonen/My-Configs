@@ -1,8 +1,8 @@
 [
     {
         "pair": "XETHZUSD",
-        "buy_threshold": 3050,
-        "sell_threshold": 3200,
+        "buy_threshold": 3188,
+        "sell_threshold": 3399,
         "initial_balance": 0.0,
         "initial_crypto_balance": 0.006,
         "base_asset": "ZUSD",
@@ -10,8 +10,8 @@
     },
     {
         "pair": "SHIBUSD",
-        "buy_threshold": 0.000024,
-        "sell_threshold": 0.0000255,
+        "buy_threshold": 0.0000244,
+        "sell_threshold": 0.0000252,
         "initial_balance": 0.0,
         "initial_crypto_balance": 300000.0,
         "base_asset": "ZUSD",
@@ -19,27 +19,27 @@
     },
     {
         "pair": "WIFUSD",
-        "buy_threshold": 3.48,
+        "buy_threshold": 2.8,
         "sell_threshold": 3.97,
         "initial_balance": 0.0,
-        "initial_crypto_balance": 5.0,
+        "initial_crypto_balance": 3.0,
         "base_asset": "ZUSD",
         "crypto_asset": "WIF"
     },
     {
         "pair": "DOTUSD",
-        "buy_threshold": 4.8,
-        "sell_threshold": 5.4,
-        "initial_balance": 5.0,
+        "buy_threshold": 5.83,
+        "sell_threshold": 6.4,
+        "initial_balance": 0.0,
         "initial_crypto_balance": 0.0,
         "base_asset": "ZUSD",
         "crypto_asset": "DOT"
     },
     {
         "pair": "XXMRZUSD",
-        "buy_threshold": 138.8,
-        "sell_threshold": 148,
-        "initial_balance": 0.0,
+        "buy_threshold": 157.5,
+        "sell_threshold": 161.2,
+        "initial_balance": 5.0,
         "initial_crypto_balance": 0.0,
         "base_asset": "ZUSD",
         "crypto_asset": "XMR"
@@ -55,9 +55,9 @@
     },
     {
         "pair": "UNIUSD",
-        "buy_threshold": 7.95,
-        "sell_threshold": 8.5,
-        "initial_balance": 7.0,
+        "buy_threshold": 8.71,
+        "sell_threshold": 9.49,
+        "initial_balance": 0.0,
         "initial_crypto_balance": 0.0,
         "base_asset": "ZUSD",
         "crypto_asset": "UNI"
@@ -66,18 +66,63 @@
         "pair": "POPCATUSD",
         "buy_threshold": 1.6,
         "sell_threshold": 1.91,
-        "initial_balance": 6.0,
+        "initial_balance": 0.0,
         "initial_crypto_balance": 0.0,
         "base_asset": "ZUSD",
         "crypto_asset": "POPCAT"
     },
     {
         "pair": "XDGUSD",
-        "buy_threshold": 0.36,
-        "sell_threshold": 0.38,
+        "buy_threshold": 0.375,
+        "sell_threshold": 0.421,
         "initial_balance": 0.0,
-        "initial_crypto_balance": 6.0,
+        "initial_crypto_balance": 14.0,
         "base_asset": "ZUSD",
         "crypto_asset": "XDG"
+    },
+    {
+        "pair": "MNGOUSD",
+        "buy_threshold": 0.02,
+        "sell_threshold": 0.04,
+        "initial_balance": 0.0,
+        "initial_crypto_balance": 0.0,
+        "base_asset": "ZUSD",
+        "crypto_asset": "MNGO"
+    },
+    {
+        "pair": "PEPEUSD",
+        "buy_threshold": 0.000019,
+        "sell_threshold": 0.00003,
+        "initial_balance": 0.0,
+        "initial_crypto_balance": 0.0,
+        "base_asset": "ZUSD",
+        "crypto_asset": "PEPE"
+    },
+    {
+        "pair": "FARMUSD",
+        "buy_threshold": 49.21,
+        "sell_threshold": 52.49,
+        "initial_balance": 7.0,
+        "initial_crypto_balance": 0.0,
+        "base_asset": "ZUSD",
+        "crypto_asset": "FARM"
+    },
+    {
+        "pair": "SOLUSD",
+        "buy_threshold": 251.1,
+        "sell_threshold": 262.94,
+        "initial_balance": 0.0,
+        "initial_crypto_balance": 0.0,
+        "base_asset": "ZUSD",
+        "crypto_asset": "SOL"
+    },
+    {
+        "pair": "POLUSD",
+        "buy_threshold": 0.456,
+        "sell_threshold": 0.479,
+        "initial_balance": 0.0,
+        "initial_crypto_balance": 7.0,
+        "base_asset": "ZUSD",
+        "crypto_asset": "POL"
     }
 ]
