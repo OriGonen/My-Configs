@@ -1,7 +1,7 @@
 [
     {
         "pair": "XETHZUSD",
-        "buy_threshold": 3250,
+        "buy_threshold": 3333,
         "sell_threshold": 3421,
         "initial_balance": 0.0,
         "initial_crypto_balance": 0.006,
