@@ -1,8 +1,8 @@
 [
     {
         "pair": "XETHZUSD",
-        "buy_threshold": 3188,
-        "sell_threshold": 3399,
+        "buy_threshold": 3250,
+        "sell_threshold": 3421,
         "initial_balance": 0.0,
         "initial_crypto_balance": 0.006,
         "base_asset": "ZUSD",
@@ -10,8 +10,8 @@
     },
     {
         "pair": "SHIBUSD",
-        "buy_threshold": 0.0000244,
-        "sell_threshold": 0.0000252,
+        "buy_threshold": 0.0000255,
+        "sell_threshold": 0.0000277,
         "initial_balance": 0.0,
         "initial_crypto_balance": 300000.0,
         "base_asset": "ZUSD",
@@ -19,8 +19,8 @@
     },
     {
         "pair": "WIFUSD",
-        "buy_threshold": 2.8,
-        "sell_threshold": 3.97,
+        "buy_threshold": 3.2,
+        "sell_threshold": 3.5,
         "initial_balance": 0.0,
         "initial_crypto_balance": 0.0,
         "base_asset": "ZUSD",
@@ -38,7 +38,7 @@
     {
         "pair": "XXMRZUSD",
         "buy_threshold": 157.5,
-        "sell_threshold": 161.2,
+        "sell_threshold": 162.2,
         "initial_balance": 0.0,
         "initial_crypto_balance": 0.0,
         "base_asset": "ZUSD",
@@ -73,8 +73,8 @@
     },
     {
         "pair": "XDGUSD",
-        "buy_threshold": 0.375,
-        "sell_threshold": 0.421,
+        "buy_threshold": 0.401,
+        "sell_threshold": 0.481,
         "initial_balance": 0.0,
         "initial_crypto_balance": 14.0,
         "base_asset": "ZUSD",
@@ -118,10 +118,10 @@
     },
     {
         "pair": "POLUSD",
-        "buy_threshold": 0.456,
-        "sell_threshold": 0.479,
-        "initial_balance": 0.0,
-        "initial_crypto_balance": 7.0,
+        "buy_threshold": 0.508,
+        "sell_threshold": 0.561,
+        "initial_balance": 6.0,
+        "initial_crypto_balance": 0.0,
         "base_asset": "ZUSD",
         "crypto_asset": "POL"
     }
