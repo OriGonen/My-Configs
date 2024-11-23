@@ -76,7 +76,7 @@
         "buy_threshold": 0.401,
         "sell_threshold": 0.481,
         "initial_balance": 0.0,
-        "initial_crypto_balance": 14.0,
+        "initial_crypto_balance": 0.0,
         "base_asset": "ZUSD",
         "crypto_asset": "XDG"
     },
