@@ -1,10 +1,10 @@
 [
     {
         "pair": "XETHZUSD",
-        "buy_threshold": 3333,
-        "sell_threshold": 3421,
-        "initial_balance": 0.0,
-        "initial_crypto_balance": 0.006,
+        "buy_threshold": 3402,
+        "sell_threshold": 3425,
+        "initial_balance": 20.44,
+        "initial_crypto_balance": 0.0,
         "base_asset": "ZUSD",
         "crypto_asset": "XETH"
     },
